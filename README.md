@@ -1,4 +1,3 @@
-# wang.yuhao-campus.lmu.de
 ## Masterarbeit: Conversatioal AI 
 
 In den Kernprozessen von Entwicklung, Produktion, Vertrieb bis zu Financial Services und Aftersales sowie in innovativen digitalen Geschäftsbereichen wie Mobilitätsdienstleistungen, vernetzte Fahrzeuge und autonomes Fahren entstehen große Datenmengen. In der IT-Abteilung Big Data, Machine Learning und Artificial Intelligence gewinnen wir gemeinsam mit den Fachbereichen Informationen aus diesen Daten, damit auf dieser Basis Prozesse optimiert, Produktqualität erhöht sowie neue Produkte und  Dienstleistungen entwickelt werden können.
