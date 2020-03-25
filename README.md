@@ -1,4 +1,4 @@
-## Masterarbeit: Conversatioal AI 
+## Masterarbeit: Conversatioal AI Plattform
 
 In den Kernprozessen von Entwicklung, Produktion, Vertrieb bis zu Financial Services und Aftersales sowie in innovativen digitalen Geschäftsbereichen wie Mobilitätsdienstleistungen, vernetzte Fahrzeuge und autonomes Fahren entstehen große Datenmengen. In der IT-Abteilung Big Data, Machine Learning und Artificial Intelligence gewinnen wir gemeinsam mit den Fachbereichen Informationen aus diesen Daten, damit auf dieser Basis Prozesse optimiert, Produktqualität erhöht sowie neue Produkte und  Dienstleistungen entwickelt werden können.
 Im Bereich Natural Language Processing (NLP) bieten wir spannende Aufgaben im Rahmen einer Praktikumsarbeit oder Abschlussarbeit (Master) an. Insbesondere suchen wir Studenten, die am Thema Conversatioal AI interessiert sind. Wir bieten hier einige sehr spannende Anwendungsfälle von Conversational Assistants im Umfeld Arbeitsplatz und Produktion. Hierbei suchen wir Unterstützung bei sehr unterschiedlichen Aufgbaben wie Conversational Design, UI/UX Design, NLU und SW Engineering.  
